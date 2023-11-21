@@ -115,6 +115,7 @@ Execute the program
 </body>
 </html>
 # OUPUT
-![Screenshot 2023-11-21 134434](https://github.com/vinodhini-17/ODD2023-WT-Ex-03-Timetable/assets/145742741/32382c6b-615c-4454-a90b-d515666f7138)
+![Screenshot 2023-11-21 134434](https://github.com/vinodhini-17/ODD2023-WT-Ex-03-Timetable/assets/145742741/dc1547cd-30a2-4347-ada6-ae97f4eea8dc)
+
 
 

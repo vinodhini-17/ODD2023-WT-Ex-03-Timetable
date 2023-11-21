@@ -114,7 +114,9 @@ Execute the program
     </table>
 </body>
 </html>
+
 # OUPUT
-![timetable](https://github.com/vinodhini-17/ODD2023-WT-Ex-03-Timetable/assets/145742741/168cd6b8-3883-4ea6-8135-280de4415cbc)
+![timetable](https://github.com/vinodhini-17/ODD2023-WT-Ex-03-Timetable/assets/145742741/f9ac8ad3-d36c-4c76-acbf-612426e1849c)
+
 
 
